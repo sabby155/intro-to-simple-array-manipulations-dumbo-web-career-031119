@@ -4,6 +4,6 @@ end
 
 def using_inshift (arr,str)
   result = arr.unshift(str)
-  result 
+  return result 
 end
 
