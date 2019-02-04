@@ -3,6 +3,7 @@ def using_push (arr,str)
 end   
 
 def using_inshift (arr,str)
-  arr.unshift(str)
+  result = arr.unshift(str)
+  result 
 end
 
