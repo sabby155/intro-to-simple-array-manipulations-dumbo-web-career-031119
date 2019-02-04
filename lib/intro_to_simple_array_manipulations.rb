@@ -38,6 +38,9 @@ def using_uniq(arr)
   arr.uniq()
 end   
 
+def using_delete (arr, str)
+  arr.delete(str)
+end   
 
 
 
